@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDENTS>
+    <PERSON>
+        <NAME>Петр</NAME>
+        <SURNAME>Исаев</SURNAME>>
+        <EMAIL>1234@outlook.com</EMAIL>
+        <TELEPHONE>+375441234567</TELEPHONE>
+        <LANGUAGE>Английский</LANGUAGE>
+        <TIME>Вечернее</TIME>
+    </PERSON>
+    <PERSON>
+        <NAME>Лев</NAME>
+        <SURNAME>Толстой</SURNAME>
+        <EMAIL>1234@yandex.com</EMAIL>
+        <TELEPHONE>+375297654321</TELEPHONE>
+        <LANGUAGE>Немецкий</LANGUAGE>
+        <TIME>Утренннее</TIME>
+    </PERSON>
+    <PERSON>
+        <NAME>Наталья</NAME>
+        <SURNAME>Болконская</SURNAME>>
+        <EMAIL>4321@gmail.com</EMAIL>
+        <TELEPHONE>+375440101010</TELEPHONE>
+        <LANGUAGE>Французский</LANGUAGE>
+        <TIME>Утренннее</TIME>
+    </PERSON>
+    <PERSON>
+        <NAME>Ян</NAME>
+        <SURNAME>Чапский</SURNAME>>
+        <EMAIL>0000@outlook.com</EMAIL>
+        <TELEPHONE>+375440202020</TELEPHONE>
+        <LANGUAGE>Французский</LANGUAGE>
+        <TIME>Утренннее</TIME>
+    </PERSON>
+    <PERSON>
+        <NAME>Анна</NAME>
+        <SURNAME>Каренина</SURNAME>>
+        <EMAIL>9999@yandex.com</EMAIL>
+        <TELEPHONE>+375440303030</TELEPHONE>
+        <LANGUAGE>Английский</LANGUAGE>
+        <TIME>Утренннее</TIME>
+    </PERSON>
+</STUDENTS>
